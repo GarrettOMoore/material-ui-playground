@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  margin: 2rem;
 }
 
 .App-logo {
@@ -19,15 +20,15 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+#sign-in-btn {
+  margin-top: 1.5rem;
+  margin-left: 0.5rem;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+#dm-toggle * {
+  margin: 0 auto;
+}
+
+p {
+  text-align: center;
 }
